@@ -1,2 +1,2 @@
 # ChildCareWebApp
- A ChildCare web application in PHP 
+ A ChildCare web application portal in PHP 
